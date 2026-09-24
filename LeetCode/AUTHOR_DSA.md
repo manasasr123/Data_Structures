@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 3 / 238 (1.3%)
+- **Completed:** 5 / 238 (2.1%)
 
 ---
 
@@ -241,7 +241,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] GCD of Strings
 - [ ] Validate IP Address
 - [ ] Largest Number
-- [ ] Decode String
+- [x] [Decode String](./Java/Medium/394. Decode String/)
 - [ ] Maximum Product of Word Lengths
 - [ ] Flip Bit
 - [ ] Maximum Number of Balloons
@@ -298,7 +298,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Baseball Game
 - [ ] Longest Valid Parentheses
 - [ ] Valid Parentheses
-- [ ] Decode String
+- [x] [Decode String](./Java/Medium/394. Decode String/)
 - [ ] 132 Pattern
 - [ ] Next Greater Element I
 - [ ] Next Greater Element II
