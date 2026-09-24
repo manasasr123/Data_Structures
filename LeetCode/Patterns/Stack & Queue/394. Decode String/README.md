@@ -8,8 +8,8 @@
 String, Stack, Recursion
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 78 ms
+- **Memory:** 43.1 MB
 
 ---
 
