@@ -68,7 +68,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [x] [Largest Rectangle in Histogram](./Java/Hard/84. Largest Rectangle in Histogram/)
 - [ ] Sliding Window Maximum
 - [x] [Min Stack](./Java/Medium/155. Min Stack/)
-- [x] [Rotting Oranges](./Java/Medium/994. Rotting Oranges/)
+- [x] [Rotting Oranges](./Java/Medium/1036. Rotting Oranges/)
 - [ ] Daily Temperatures
 
 ### 📂 Binary Tree & BST
