@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 14 / 150 (9.3%)
+- **Completed:** 15 / 150 (10.0%)
 
 ---
 
@@ -111,7 +111,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 ### 📂 Graphs
 - [x] [Number of Islands](./Java/Medium/200. Number of Islands/)
 - [ ] Clone Graph
-- [ ] Max Area of Island
+- [x] [Max Area of Island](./Java/Medium/695. Max Area of Island/)
 - [ ] Pacific Atlantic Water Flow
 - [ ] Surrounded Regions
 - [x] [Rotting Oranges](./Java/Medium/1036. Rotting Oranges/)
